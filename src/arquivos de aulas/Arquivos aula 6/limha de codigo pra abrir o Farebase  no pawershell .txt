@@ -1,0 +1,2 @@
+ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+problema para abrir o farebase no windowns
